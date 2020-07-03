@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/allgorithm/static/css/main.468d43cb.chunk.css",
-    "main.js": "/allgorithm/static/js/main.3de91a2e.chunk.js",
-    "main.js.map": "/allgorithm/static/js/main.3de91a2e.chunk.js.map",
+    "main.js": "/allgorithm/static/js/main.a0bad38f.chunk.js",
+    "main.js.map": "/allgorithm/static/js/main.a0bad38f.chunk.js.map",
     "runtime-main.js": "/allgorithm/static/js/runtime-main.8d3e8c2d.js",
     "runtime-main.js.map": "/allgorithm/static/js/runtime-main.8d3e8c2d.js.map",
     "static/js/2.4a5dbf69.chunk.js": "/allgorithm/static/js/2.4a5dbf69.chunk.js",
     "static/js/2.4a5dbf69.chunk.js.map": "/allgorithm/static/js/2.4a5dbf69.chunk.js.map",
     "index.html": "/allgorithm/index.html",
-    "precache-manifest.471b7fd293bead11eafb470d05bb8dd7.js": "/allgorithm/precache-manifest.471b7fd293bead11eafb470d05bb8dd7.js",
+    "precache-manifest.e0466f98608f3f9d3cf411f69a70f587.js": "/allgorithm/precache-manifest.e0466f98608f3f9d3cf411f69a70f587.js",
     "service-worker.js": "/allgorithm/service-worker.js",
     "static/css/main.468d43cb.chunk.css.map": "/allgorithm/static/css/main.468d43cb.chunk.css.map",
     "static/js/2.4a5dbf69.chunk.js.LICENSE.txt": "/allgorithm/static/js/2.4a5dbf69.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8d3e8c2d.js",
     "static/js/2.4a5dbf69.chunk.js",
     "static/css/main.468d43cb.chunk.css",
-    "static/js/main.3de91a2e.chunk.js"
+    "static/js/main.a0bad38f.chunk.js"
   ]
 }
